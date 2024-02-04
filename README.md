@@ -1,0 +1,1 @@
+This node pack for [invokeAI](https://github.com/invoke-ai/InvokeAI) loads the newest image from the selected board and provides it as output. This can be used to build recursive worklows where the output of the workflow is used as the input for the next iteration of the workflow.

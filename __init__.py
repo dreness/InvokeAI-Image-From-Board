@@ -1,0 +1,1 @@
+from .load_image_from_board import LoadImageFromBoard
